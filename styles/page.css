@@ -78,6 +78,7 @@
 }
 
 .step h2 {
+  font-family: var(--font-family-heading);
   margin-bottom: var(--space-4);
   font-size: var(--text-lg);
 }
