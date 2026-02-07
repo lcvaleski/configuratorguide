@@ -50,6 +50,7 @@
 }
 
 .requirements h2 {
+  font-family: var(--font-family-heading);
   margin-bottom: var(--space-5);
 }
 
